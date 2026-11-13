@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="EmbassyBackend/EmbassyBackend.vcxproj" Id="59856bdb-3952-4df2-9180-95ad6f2a3173" />
+</Solution>
