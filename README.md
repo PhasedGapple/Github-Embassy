@@ -5,6 +5,7 @@ I hosted it at https://embassy.faked.my.id/ \
 I wanted to host it at https://no.joke.im.not.lying.this.is.real.yeah.so.embassy.has.actually.forged.or.faked.my.id/ but then SSL wouldnt work so I used the shorter domain
 ## Inspirations
 - I took the Sign In page from https://github.com/M-Aayan/github-signin-page and did small changes / mostly removed most of the fields.
+- I took the entire website from embassy.hackclub.com just not the signin.
 ## Compiling
 I used VCPKG to install the packages
 Install the following packages in VCPKG, it will automatically be installed when building on linux but on windows has to be installed manually:
