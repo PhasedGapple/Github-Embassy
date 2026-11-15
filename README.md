@@ -7,10 +7,11 @@ I wanted to host it at https://no.joke.im.not.lying.this.is.real.yeah.so.embassy
 - I took the Sign In page from https://github.com/M-Aayan/github-signin-page and did small changes / mostly removed most of the fields.
 ## Compiling
 I used VCPKG to install the packages
-Install the following packages in VCPKG:
+Install the following packages in VCPKG, it will automatically be installed when building on linux but on windows has to be installed manually:
 - nlohmann/json
 - httplib
-I also included the linux files for compiling with CMake
+I also included the linux files for compiling with CMake \
+Also get https://github.com/microsoft/vcpkg before compiling, thats what manages VCPKG
 ## Running the server
 You can copy the assets.zip and extract it in the folder with the binary to run the server, then in config.json make sure to set your personal fine grained token from github.
 ## Usage of AI
