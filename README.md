@@ -14,6 +14,6 @@ Install the following packages in VCPKG, it will automatically be installed when
 I also included the linux files for compiling with CMake \
 Also get https://github.com/microsoft/vcpkg before compiling, thats what manages VCPKG
 ## Running the server
-You can copy the assets.zip and extract it in the folder with the binary to run the server, then in config.json make sure to set your personal fine grained token from github.
+You can copy the [assets.zip](https://github.com/PhasedGapple/Github-Embassy/blob/master/assets.zip) and extract it in the folder with the binary to run the server, then in config.json make sure to set your personal fine grained token from github.
 ## Usage of AI
 I used AI for Research, Documenting, writing small and unnoticable parts of the javascript of the hotend, troubleshooting, improving the backend, debugging and to recommend me ways on how to do my code.
