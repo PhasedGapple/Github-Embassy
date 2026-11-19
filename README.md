@@ -3,6 +3,8 @@ Not a big fan of Hack Club Embassy, so I made my own.
 ## Hosted Demo
 I hosted it at https://embassy.faked.my.id/ \
 I wanted to host it at https://no.joke.im.not.lying.this.is.real.yeah.so.embassy.has.actually.forged.or.faked.my.id/ but then SSL wouldnt work so I used the shorter domain
+## Missunderstandings
+Some features like the Fonts and FAQ arent working, dont count those stuff as mistakes I did them on purpose.
 ## Inspirations
 - I took the Sign In page from https://github.com/M-Aayan/github-signin-page and did small changes / mostly removed most of the fields.
 - I took the entire website from embassy.hackclub.com just not the signin.
